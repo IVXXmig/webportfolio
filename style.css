@@ -2,11 +2,11 @@
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
-	font-family: "open sans", monospace;
+	font-family: "raleway", monospace;
 }
 
 .container{
-	min-height: 80vh;
+	min-height: 100vh;
 	text-align: right;
 	padding-left: 10%;
 	padding-right: 10%;
@@ -19,7 +19,7 @@
 	background-image: url(./Images/BG2.jpg);
 	background-repeat: no-repeat;
 	background-position: center ;
-	background-size: 500%;
+	background-size: 700%;
 	width: 1000%;
 
 
@@ -73,3 +73,6 @@
 	height: 10%;
 }
 
+.button{
+	width: 150px;
+}
